@@ -1,0 +1,19 @@
+c:\users\william\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\william\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\william\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\william\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\william\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\william\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\william\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\william\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+c:\users\william\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form2.resources
+C:\Users\william\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\william\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form3.resources
+D:\Estudio\C#\Mis Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\Estudio\C#\Mis Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Estudio\C#\Mis Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.Form2.resources
+D:\Estudio\C#\Mis Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.Form3.resources
+D:\Estudio\C#\Mis Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Estudio\C#\Mis Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Estudio\C#\Mis Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Estudio\C#\Mis Proyectos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
